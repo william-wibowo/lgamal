@@ -5,7 +5,7 @@
 
 <br/>
 
-<h2>About Me:</h2>
+<h2>I. About Me</h2>
 
 - 🌱 I’m currently learning **Frontend QA Automation Tools (Espresso, uiautomation, xcuitest, etc.)** using **Java & Obj. C**
 
@@ -16,20 +16,54 @@
 - 📄 Know about my experiences by reading [my curriculum vitae](https://drive.google.com/file/d/1qaepd9n9wDajwZ2G1XllG5AaVMsgkq2P/view?usp=share_link)
 
 
-<h2>Some of My Projects:</h2>
+<h2>II. Some of My Projects</h2>
 <h3>1. Blanche: Minimalist E-Commerce Full-Stack Website</h3>
+<ul>
+    <li>Repository: https://github.com/lgamal/blanche</li>
+    <li>Deployment: -</li>
+</ul>
 
-<h3>2. Sushee: Japanesse Restaurant Online Order Full-Stack Website</h3>
+<h3>2. Sushee: Japanese Restaurant Online Order Full-Stack Website</h3>
+<ul>
+    <li>Repository: https://github.com/lgamal/sushee</li>
+    <li>Deployment: -</li>
+</ul>
 
 <h3>3. Simple E-Wallet Backend Service</h3>
-    
+This is the E-Wallet API. This whole project was built using Golang, PostgreSQL, and JWT in a RESTful manner. For serving the data to the endpoints & also connecting the API to the database, I'm using the Gin & Gorm packages. The user may sign-up, login & get credentials, and also reset their password. Besides, they are also able to see transaction history, top up, and transfer to another account. More details about the API's features could be seen in the documentation. You can access the documentation by requesting a GET method to /docs.
+<ul>
+    <li>Repository: https://github.com/lgamal/e-wallet</li>
+    <li>Deployment: -</li>
+</ul>
+
 <h3>4. MasTrendy: Discord Bot - Google Trend Broadcaster</h3>
+Mas Trendy is an Open Source, Google-trend & Google-search-powered Discord Bot. Equipped with daily-push-notification about the current trends based on the Google search engine and manual-push-notification to search current trends in each country. 
+<ul>
+    <li>Repository: https://github.com/lgamal/MasTrendy</li>
+    <li>Deployment: -</li>
+</ul>
 
 <h3>5. Hotel Booking Cancellation Prediction Model</h3>
+A successful predictive model has been built to categorize orders as either having a potential for cancellation or being less likely to be canceled, achieving an accuracy of 83.56%. The model, based on a random forest with hyperparameters 'max_features' set at 10 and 'n_estimators' at 200, utilized a range of chosen features, including both direct selections and engineered attributes through feature engineering. Four key factors crucial to order success were identified using feature importance and the highest average Gini score; these factors encompass lead time, ADR, arrival date week number, and deposit type.
+<ul>
+    <li>Repository: https://github.com/lgamal/Hotel-Booking-Cancelation-Prediction-Model</li>
+    <li>Deployment: -</li>
+</ul>
 
 <h3>6. Indonesian Goverment Covid19 App (Peduli Lindungi) User Review Topic Extractor Model</h3>
+<ul>
+    <li>Repository: -</li>
+    <li>Deployment: -</li>
+</ul>
 
-<h2 align="left">Languages and Tools:</h2>
+
+<h2>III. Current Backlog & In-Progress</h2>
+<ol>
+    <li>Personal Portfolio Website</li>
+    <li>Instagram Account Follower Manager App</li>
+</ol>
+
+<h2 align="left">IV. Languages and Tools:</h2>
 <details open>
     <summary>Front-End</summary>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
