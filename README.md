@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William Wibowo Ciptono</h1>
 <h3 align="center">A data & software enthusiast from Indonesia.</h3>
 
-![William](https://drive.google.com/uc?export=view&id=11eeWQPGVf3b160kt9su9JpZjRN4Bgsym)
+![William](./profile_picture.png)
 
 <br/>
 
@@ -60,6 +60,7 @@ A successful predictive model has been built to categorize orders as either havi
 <h2>III. Current Backlog & In-Progress</h2>
 <ol>
     <li>Personal Portfolio Website</li>
+    <li>WawancarAI - interview training assitant website</li>
     <li>Instagram Account Follower Manager App</li>
 </ol>
 
@@ -102,6 +103,7 @@ A successful predictive model has been built to categorize orders as either havi
 </details>
 </p>
 
+<h2>V. Some Random Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lgamal&show_icons=true&locale=en&layout=compact" alt="lgamal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lgamal&show_icons=true&locale=en" alt="lgamal" /></p>
